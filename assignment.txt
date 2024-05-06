@@ -1,0 +1,15 @@
+Assignment 
+Name: Kim Timileyin Davids
+Cohort 20
+
+4.10 Answer
+
+The if single-selection statement and the while repitition statement both perform an action,
+The if single-selection statement performs the action once, 
+whereas the while repitition statement repeats the action until the condition becomes false.
+
+4.12 Answer
+
+Control statements can be connected to one another by connecting the exit point of one 
+end to the entry point of the next.
+

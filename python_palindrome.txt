@@ -1,0 +1,14 @@
+user_input = []
+def palindrome(number inputted):
+	
+	result = number_inputted
+	
+	user_input.append(result)
+
+	for numbers in range(len(user_input)):
+		
+		result = user_input[::len(user_input)-1]
+
+	
+print(result)
+		

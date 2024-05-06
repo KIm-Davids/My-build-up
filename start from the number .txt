@@ -1,0 +1,2 @@
+start from the number 
+any number that multiplies itself to get to the number is the sqrt 
