@@ -1,6 +1,0 @@
-def length_of_a_atring(number):
-
-	return(len(number))
-	
-
-	

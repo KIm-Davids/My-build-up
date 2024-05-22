@@ -1,2 +1,0 @@
-print("Nigeria " + "and " + "Africa");
-	

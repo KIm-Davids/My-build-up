@@ -13,13 +13,12 @@ import java.util.Scanner;
 		int counter = 1;
 		int tenNumbers = 10;
 
-	while (accountNumber!=tenNumbers)
-		{
-		System.out.print("Account number Incorrect");
 		if (accountNumber==tenNumbers)
 			{
 			System.out.print("Account number correct");
 			}
+
+
 		counter = counter + 1;	
 		}
 		
